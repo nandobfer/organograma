@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+.banner-container h1 {
+    font-size: 48px;
+}
+
+.banner-container h2 {
+    font-size: 36px;
+}
+
+.banner-container {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    background-color: #3a5ccb;
+    width: 100%;
+    align-items: center;
+}
+
+.title {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    color: black;
+    text-align: start;
+}
